@@ -1,4 +1,4 @@
-# Evolable Neural Units (ENU)
+# Evolvable Neural Units (ENU)
 
 ![](./assets/paper_main.png)
 
