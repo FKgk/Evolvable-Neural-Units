@@ -41,6 +41,10 @@ python ENU.py #pending
 ## Author
 Kwangho Kim  / [@FKgk](https://github.com/FKgk)
 
+## References
+[Network of Evolvable Neural Units: Evolving to Learn at a Synaptic Level](https://arxiv.org/abs/1912.07589) by Paul Bertens, Seong-Whan Lee
+
+
 ## License
 [CRAPL v0 BETA 1](http://matt.might.net/articles/crapl/)
 
