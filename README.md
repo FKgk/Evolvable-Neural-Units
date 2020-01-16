@@ -13,6 +13,7 @@ Validation result on for Evolable Nueral Units:
 | -------------------------- | ----- | ---- |
 | Pending | Pending  | Pending |
 
+- (2020.01.15) Working: Implementing Model Backward Processing
 
 
 ## Dependencies
@@ -24,10 +25,22 @@ pip install -r requirements.txt
 
 
 ## Train Evolable Neural Units (ENU)
+```bash
+python ENU.py #pending
+```
 
 ## Validation
+```bash
+python ENU.py #pending
+```
+
+## Main Update Log
+- (2020.01.14) Update: First Update
+
 
 ## Author
+Kwangho Kim  / [@FKgk](https://github.com/FKgk)
 
 ## License
+[CRAPL v0 BETA 1](http://matt.might.net/articles/crapl/)
 
