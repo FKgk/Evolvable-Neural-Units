@@ -18,11 +18,17 @@ Validation result on for Evolable Nueral Units:
 
 ## Dependencies
 
-This code was tested on Python 3.6 with PyTorch 1.0.1. Other packages can be installed by:
+(PyTorch) This code was tested on Python 3.6 with PyTorch 1.0.1. Other packages can be installed by:
+  
 ```bash
 pip install -r requirements.txt
 ```
 
+**Required Dependencies:**
+- Python 3.6
+- PyTorch >= 1.0.1 
+- TensorFlow == 1.12.0
+- Keras == 2.2.2
 
 ## Train Evolable Neural Units (ENU)
 ```bash
