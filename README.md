@@ -51,8 +51,8 @@ python ENU.py #pending
 <!-- markdownlint-disable -->
 <table>
   <tr>
-    <td align="center"><a href="https://github.com/FKgk"><img src="https://avatars.githubusercontent.com/u/40608930?s=400&v=4" width="100px;" alt=""/><br /><sub><b>Kwangho Kim</b></sub></a><br /><a href="https://teddylee777.github.io/" title="Code">🏠</a></td>
-    <td align="center"><a href="https://github.com/Lukious"><img src="https://avatars.githubusercontent.com/u/25575989?s=400&u=437fcddaf4c95fb18f583862322f22540c566696&v=4" width="100px;" alt=""/><br /><sub><b>Suwhan Baek</b></sub></a><br /><a href="https://github.com/HongJaeKwon" title="Code">🏠</a></td>
+    <td align="center"><a href="https://github.com/FKgk"><img src="https://avatars.githubusercontent.com/u/40608930?s=400&v=4" width="100px;" alt=""/><br /><sub><b>Kwangho Kim</b></sub></a><br /><a href="https://github.com/FKgk" title="Code">🏠</a></td>
+    <td align="center"><a href="https://github.com/Lukious"><img src="https://avatars.githubusercontent.com/u/25575989?s=400&u=437fcddaf4c95fb18f583862322f22540c566696&v=4" width="100px;" alt=""/><br /><sub><b>Suwhan Baek</b></sub></a><br /><a href="https://github.com/Lukious" title="Code">🏠</a></td>
     <td align="center"><a href="https://github.com/Kaintels"><img src="https://avatars.githubusercontent.com/u/38157496?s=460&u=701d6896714d3551c20e1f46c15079f8e6630784&v=4" width="100px;" alt=""/><br /><sub><b>Seungwoo Han</b></sub></a><br /><a href="https://github.com/Kaintels" title="Code">🏠</a></td>
   </tr>
 </table>
