@@ -42,10 +42,28 @@ python ENU.py #pending
 
 ## Main Update Log
 - (2020.01.14) Update: First Update
+- (2020.05.24) Update: Add pytorch GPU version
 
+## Contributors
 
-## Author
-Kwangho Kim  / [@FKgk](https://github.com/FKgk)
+<!-- ALL-CONTRIBUTORS-LIST:START - Do not remove or modify this section -->
+<!-- prettier-ignore-start -->
+<!-- markdownlint-disable -->
+<table>
+  <tr>
+    <td align="center"><a href="https://github.com/FKgk"><img src="https://avatars.githubusercontent.com/u/40608930?s=400&v=4" width="100px;" alt=""/><br /><sub><b>Kwangho Kim</b></sub></a><br /><a href="https://teddylee777.github.io/" title="Code">🏠</a></td>
+    <td align="center"><a href="https://github.com/Lukious"><img src="https://avatars.githubusercontent.com/u/25575989?s=400&u=437fcddaf4c95fb18f583862322f22540c566696&v=4" width="100px;" alt=""/><br /><sub><b>Suwhan Baek</b></sub></a><br /><a href="https://github.com/HongJaeKwon" title="Code">🏠</a></td>
+    <td align="center"><a href="https://github.com/Kaintels"><img src="https://avatars.githubusercontent.com/u/38157496?s=460&u=701d6896714d3551c20e1f46c15079f8e6630784&v=4" width="100px;" alt=""/><br /><sub><b>Seungwoo Han</b></sub></a><br /><a href="https://github.com/Kaintels" title="Code">🏠</a></td>
+  </tr>
+</table>
+
+<!-- markdownlint-restore -->
+<!-- prettier-ignore-end -->
+
+<!-- ALL-CONTRIBUTORS-LIST:END -->
+
+Pull requests are encouraged and always welcome!
+
 
 ## References
 [Network of Evolvable Neural Units: Evolving to Learn at a Synaptic Level](https://arxiv.org/abs/1912.07589) by Paul Bertens, Seong-Whan Lee
